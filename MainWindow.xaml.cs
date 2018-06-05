@@ -1,3 +1,8 @@
+/*
+ * COuper Ebbs-Picken
+ * 6/5/2018
+ * do some graphing
+ */ 
 using System;
 using System.Collections.Generic;
 using System.Linq;
